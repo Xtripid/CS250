@@ -1,0 +1,11 @@
+store 0xabc773 miss
+store 0x562771 miss
+load 0x435770 miss 0000000000
+load 0xabc772 hit 0011223344556677
+load 0x1a4772 miss 0000
+store 0x111777 miss
+load 0x562772 miss 340000
+load 0xabc781 miss 00000000
+store 0xabc771 hit
+load 0x435772 miss 00
+load 0x562770 hit 00ef34
